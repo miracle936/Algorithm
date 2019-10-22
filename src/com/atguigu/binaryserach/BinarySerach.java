@@ -13,7 +13,7 @@ public class BinarySerach {
 		// 二分查找法要求数组有序
 		int[] arr = { 1, 3, 8, 10, 11, 67, 100 };
 
-		int index = serach(arr, 100);
+		int index = serach(arr, 67);
 
 		System.out.println("下标为:" + index);
 
