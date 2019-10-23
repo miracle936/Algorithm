@@ -8,7 +8,7 @@ import java.util.List;
 public class HorseChessBoard {
 
 	// 棋盘的大小
-	private static int counts = 8;
+	private static int counts = 6;
 
 	private static boolean flag = false;
 
